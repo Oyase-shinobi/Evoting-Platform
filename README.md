@@ -1,1 +1,1 @@
-A Evoting Platform (client)
+A Evoting Platform
